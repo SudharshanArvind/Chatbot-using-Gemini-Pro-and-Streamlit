@@ -1,4 +1,4 @@
-# 🤖 Gemini Pro ChatBot
+# 🤖 Gemini Pro ChatBot using Streamlit
 
 Welcome to the **Gemini Pro ChatBot**, a smart, conversational AI assistant powered by **Google Gemini-Pro** and wrapped in a sleek, intuitive **Streamlit UI**. This project demonstrates how to integrate state-of-the-art LLMs with a user-facing Python interface for real-time interaction.
 
