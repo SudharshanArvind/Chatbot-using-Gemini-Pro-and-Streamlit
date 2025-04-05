@@ -129,6 +129,7 @@ This project is licensed under the MIT License — open source, free to use, mod
 ## 👤 Author
 Sudharshan Arvind M
 Artificial Intelligence & Data Science Enthusiast
+
 📧 sudharshanarvind29@gmail.com
 
 🔗 **[GitHub](https://github.com/SudharshanArvind)**
